@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'monica_cv'
+puts MonicaCv.hi(ARGV[0])
